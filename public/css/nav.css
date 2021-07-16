@@ -1,0 +1,22 @@
+.nav{
+	background: #fff159;
+}
+
+a{
+	color: black;
+	 text-decoration: none;
+}
+
+.opciones a{
+	color: rgba(51,51,51,.6);
+	margin-right: 20px;
+}
+
+a:hover{
+	color: black;
+}
+
+.categorias{
+	font-size:10px;
+}
+
